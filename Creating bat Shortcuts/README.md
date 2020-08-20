@@ -1,6 +1,6 @@
 # How to set a keyboard shortcut to run a batch script using nothing but windows. 
 
-The example is a shortcut to extend display to another monitor and to show only on main display.
+The example is a shortcut to extend display to another monitor and to show only on main display using the keys Ctrl + Alt + Down and Ctrl + Alt + Up respectively .
 
 
 
