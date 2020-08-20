@@ -1,4 +1,4 @@
-#Welcome to the /r/Keyboardshortcuts Wiki!
+# Welcome to the /r/Keyboardshortcuts Wiki!
 
 This wiki is designed to help the community by providing info in one easy-to-use place. 
 
