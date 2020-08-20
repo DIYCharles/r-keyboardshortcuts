@@ -2,7 +2,7 @@
 
 The example is a shortcut to extend display to another monitor and to show only on main display using the keys Ctrl + Alt + Down and Ctrl + Alt + Up respectively. 
 
-This tool is pretty powerful because you can link anything that is executable up to a keyboard shortcut. For example I can run cmd using the shortcut Ctrl+Alt+down that is much faster than win+r, "cmd", enter. Also you can open up .bat scripts that you have written to do things like open git and pull all your individual repos to update or have a key set for each machine you RDP into. 
+This tool is pretty powerful because you can link anything that is executable up to a keyboard shortcut. For example I can run cmd using the shortcut Ctrl+Alt+c that is much faster than win+r, "cmd", enter. Also you can open up .bat scripts that you have written to do things like open git and pull all your individual repos to update or have a key set for each machine you RDP into. 
 
  [***Skip to here if you are tech savvy and don't need detailed instructions***](#Quick-Shortcut-Guide)
 
