@@ -1,4 +1,4 @@
-# How to set a keyboard shortcut to run a batch script using nothing but windows.
+# How to set a keyboard shortcut to run a batch script or any executable file using windows.
 
 The example is a shortcut to extend display to another monitor and to show only on main display using the keys Ctrl + Alt + Down and Ctrl + Alt + Up respectively. 
 
@@ -92,7 +92,7 @@ echo "hello"
 ```
 
 3. Move these files to C:/Users/YOURUSERNAME/Desktop
-4. Right click and select make shortcut for both .bat files
+4. Right click and select make shortcut for each .bat files
 5. Right click on the shortcut icon and select properties
 6. Under the shortcut tab locate the shortcut key
 7. Enter in a combo of Ctrl+Alt+(desired key) *For example I used Ctrl+Alt+down to extend displays*
