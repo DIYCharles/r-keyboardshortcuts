@@ -1,4 +1,3 @@
-
 #Welcome to the /r/Keyboardshortcuts Wiki!
 
 This wiki is designed to help the community by providing info in one easy-to-use place. 
@@ -41,7 +40,10 @@ Here are some links to shortcuts based on operating systems.
 * [Windows](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts)
 * [Mac](https://support.apple.com/en-us/HT201236)
 * [Ubuntu](https://help.ubuntu.com/stable/ubuntu-help/shell-keyboard-shortcuts.html.en)
-* [Premiere Pro](https://helpx.adobe.com/premiere-pro/using/keyboard-shortcuts.html)
+
+[Here is a guide on how to make a keyboard shortcut to run any program or batch script on windows.](https://github.com/DIYCharles/r-keyboardshortcuts/blob/master/Creating%20bat%20Shortcuts/README.md) Batch scripts can be used for almost anything. The examples extend the display to a second monitor and show only on the main monitor with the keys Ctrl+alt+down and Ctrl+alt+up respectively. This method can be used with base windows and needs no third party software. 
+
+![alt text](%%img7%%)
   
 Program Specific Shortcuts 
 ============
@@ -89,8 +91,8 @@ void encoder_update_user(int8_t index, bool clockwise) {
 
 Third Party Shortcut Programs 
 ============
+[AutoHotKey](https://www.autohotkey.com/)
 
-### [Autohotkey](autohotkey.com)
 
 " *AutoHotkey is a free, open-source scripting language for Windows that allows users to easily create small to complex scripts for all kinds of tasks such as: form fillers, auto-clicking, macros, etc. Define hotkeys for the mouse and keyboard, remap keys or buttons and autocorrect-like replacements. Creating simple hotkeys has never been easier; you can do it in just a few lines or less!* "
 
