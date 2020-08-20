@@ -6,6 +6,8 @@ The example is a shortcut to extend display to another monitor and to show only 
 
 ## How to create an executable batch script
 
+If you have trouble or don't want to write the bat scripts they can be found [**here**.](https://github.com/DIYCharles/r-keyboardshortcuts/tree/master/Creating%20bat%20Shortcuts/batScripts) A general rule of thumb is never download and run any .bat file without knowing the contents and that it is from a trusted host. Regardless, I've uploaded them anyways. 
+
 
 On your desktop right click then click new then text document. You can leave the name to whatever because we will change it later.
 
