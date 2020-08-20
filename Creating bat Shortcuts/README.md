@@ -36,7 +36,7 @@ If the file is renamed to ExtendDisplays.txt you need to rename and make sure yo
 
 Double click the .bat file to run it and see if it works. If it works you will see this pop up at the edge of your screen.
 
-![alt text](https://raw.githubusercontent.com/DIYCharles/r-keyboardshortcuts/master/Creating%20bat%20Shortcuts/photos/img8.JPG "img8.jpg")
+![alt text](https://raw.githubusercontent.com/DIYCharles/r-keyboardshortcuts/master/Creating%20bat%20Shortcuts/photos/img8.jpg "img8.jpg")
 
 The next batch script will make the computer only display on the main screen. You will follow the same steps as above to write and save then rename it ShowOnlyOnOne.bat (again name is not important as long as it has .bat at the end) Here is the code for it 
 
