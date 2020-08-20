@@ -41,7 +41,7 @@ Here are some links to shortcuts based on operating systems.
 * [Windows](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts)
 * [Mac](https://support.apple.com/en-us/HT201236)
 * [Ubuntu](https://help.ubuntu.com/stable/ubuntu-help/shell-keyboard-shortcuts.html.en)
-* [Keyboard shortcuts in Premiere Pro](https://helpx.adobe.com/premiere-pro/using/keyboard-shortcuts.html)
+* [Premiere Pro](https://helpx.adobe.com/premiere-pro/using/keyboard-shortcuts.html)
   
 Program Specific Shortcuts 
 ============
